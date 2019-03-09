@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/media">
+        <file>loop_h1.mp3</file>
+        <file>loop_h1.mp4</file>
+        <file>loop_h2.mp4</file>
+    </qresource>
+</RCC>
